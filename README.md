@@ -1,4 +1,4 @@
-## Hi, I’m Sthefania 👋
+## Hi, I’m Carla 👋
 
 🎓 Student of **Internet Systems (Sistemas para Internet)**  
 💻 Web development focused  
