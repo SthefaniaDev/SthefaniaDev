@@ -1,4 +1,4 @@
-# Hi, I'm Sthefania ✦
+# Hi, I'm Carla ✦
 
 I'm a **Systems for Internet** student focused on backend development, Python automation, software engineering and artificial intelligence.
 
