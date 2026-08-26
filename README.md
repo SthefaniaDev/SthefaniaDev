@@ -10,10 +10,10 @@ I enjoy exploring new technologies, solving real-world problems and continuously
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, C#, SQL
-**Back-end:** FastAPI, ASP.NET Core, AdonisJS, Fastify, REST APIs
-**Front-end:** React, HTML5, CSS3, Vite
-**Databases & ORM:** PostgreSQL, MySQL, SQLAlchemy, Entity Framework Core
+**Languages:** Python, TypeScript, JavaScript, C#, SQL  
+**Back-end:** FastAPI, ASP.NET Core, AdonisJS, Fastify, REST APIs  
+**Front-end:** React, HTML5, CSS3, Vite  
+**Databases & ORM:** PostgreSQL, MySQL, SQLAlchemy, Entity Framework Core  
 **Tools:** Git, GitHub, Linux, VS Code, Figma
 
 ──── ୨ৎ ────
